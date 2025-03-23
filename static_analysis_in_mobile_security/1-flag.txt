@@ -1,1 +1,2 @@
 Flag{flag}
+Holberton{C2.domains.are.dangerous}
