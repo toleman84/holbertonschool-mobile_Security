@@ -1,4 +1,4 @@
-task0
+task*
 grep_flag.txt
 mobile_task1.apk
 mobile_task3.apk
@@ -7,3 +7,4 @@ mobile-task2.apk
 modified*
 my*
 signed*
+jadx*
