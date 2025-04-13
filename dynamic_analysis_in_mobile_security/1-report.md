@@ -116,14 +116,14 @@ Java.perform(function () {
 
 - Clicked button in app → Frida output:
   ```
-  [*] Hooked getSecretMessage(): Holberton{C2.domains.are.dangerous}
+  [*] Hooked getSecretMessage(): Holberton{native_hooking_is_no_different_at_all}
   ```
 
 ---
 
 ## 🏁 Flag Retrieved
 ```
-Holberton{C2.domains.are.dangerous}
+Holberton{native_hooking_is_no_different_at_all}
 ```
 
 ---
